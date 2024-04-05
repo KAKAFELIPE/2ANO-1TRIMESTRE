@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .cabecallho{
     background-color: #1667C6;
     color: white;
